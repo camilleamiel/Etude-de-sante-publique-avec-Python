@@ -1,4 +1,4 @@
-![fao logo]([http://www.fao.org/home/fr](https://www.fao.org/images/corporatelibraries/fao-logo/fao-logo-fr.svg?sfvrsn=f64522b4_33))
+![fao-logo-fr](https://user-images.githubusercontent.com/132458077/235912627-90ad61a0-0361-46a9-98d6-0bf8e0651e39.svg)
 # Etude de santé publique avec Python
 Compétences évaluées :
 * Utiliser des librairies spécialisées pour les traitements data
